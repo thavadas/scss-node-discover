@@ -1,4 +1,4 @@
 # scss-node-discover
 
-Premiére modifications
+Premiere modifications
 
